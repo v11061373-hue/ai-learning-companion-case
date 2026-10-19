@@ -27,6 +27,14 @@
 
 后端是**领域无关**的学习引擎，课程内容经**课程包**注入，加新课 = 放新目录、引擎零改动。
 
+## 界面
+
+学生端四个核心模块的交互界面（点击放大）：
+
+| 课程 | 问答 | 训练 | 项目 |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/images/课程.jpg" alt="课程浏览" width="100%"> | <img src="docs/images/问答.jpg" alt="课程问答" width="100%"> | <img src="docs/images/训练.jpg" alt="训练闭环" width="100%"> | <img src="docs/images/项目.jpg" alt="项目陪练" width="100%"> |
+
 ## 架构概览
 
 ```
